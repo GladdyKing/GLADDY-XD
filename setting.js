@@ -3,8 +3,8 @@
 module.exports = {
   BOT_NAME: 'ɢʟᴀᴅᴅʏ xᴅ', // ur bot name
   OWNER_NAME: 'ɢʟᴀᴅᴅʏ ᴋɪɴɢ', //your name
-  OWNER_NUMBER: '263775335753', // add your phone number
+  OWNER_NUMBER: '263775953409', // add your phone number
   SESSION_ID: '', // add your session ID
-  MODE: "private", // public or private
+  MODE: "public", // public or private
   TIMEZONE: 'Africa/Harare' // ur timezone
 };
